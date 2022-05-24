@@ -67,6 +67,89 @@ li a:hover
 		color:black;
 	}
 
+/*css class*/
+
+p.size20
+	{
+		font-size: 20pt;
+	}
+p.size30
+	{
+		font-size: 30pt;
+		color:blue;
+	}
+
+div.kotak1
+	{
+		width: 25%;
+		background-color: #c84828;
+		height: 200px;
+		float: left;
+	}
+
+div.kotak2
+	{
+		width: 25%;
+		background-color: #6e0a25;
+		height: 200px;
+		float:left;
+	}
+
+div.kotak3
+	{
+		width: 25%;
+		background-color: #c84828;
+		height: 200px;
+		float:left;
+	}
+
+div.kotak4
+	{
+		width: 25%;
+		background-color: #6e0a25;
+		height: 200px;
+		float:left;
+	}
+
+div.fullwidth
+	{
+		width: 100vw;
+		position:relative;
+		margin-left: -50vw;
+		margin-top: -10px;
+		left:50%;
+	}
+ 
+div.logo
+	{
+		padding-bottom: 10px;
+		width: 10%;
+	}
+
+div.menu
+	{
+		width: 100vw;
+		float: left;
+		position: relative;
+		margin-left: -50vw;
+		left: 50%;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
