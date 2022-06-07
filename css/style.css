@@ -135,15 +135,46 @@ div.menu
 		left: 50%;
 	}
 
+div.slideshow
+	{
+		height: 500px;
+		padding: 30px;
+	}
+div.map
+	{
+		height: 500px;
+		padding-top: 180px;
+	}
 
 
+div.contact-kotak-1
+	{
+		width: 30%;
+		
+		height: 150px;
+		float:left;
+		padding-left: 20px;
+	}
+
+div.contact-kotak-2
+	{
+		width: 65%;
+		
+		height: 150px;
+		float:left;
+		padding: 20px
+	}
 
 
+p
+	{
+		font-family: Poppins;
+	}
 
-
-
-
-
+h3
+	{
+		font-family: Oswald;
+	}
 
 
 
